@@ -8,5 +8,7 @@ public class haiii {
 		
 		System.out.println("ghg");
 		System.out.println("fgf");
+		System.out.println("ghjgh");
+		System.out.println("ghjgh");
 	}
 }
