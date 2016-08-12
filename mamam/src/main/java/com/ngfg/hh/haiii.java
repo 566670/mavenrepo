@@ -7,5 +7,6 @@ public class haiii {
 		System.out.println("asda");
 		
 		System.out.println("ghg");
+		System.out.println("fgf");
 	}
 }
